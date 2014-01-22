@@ -1,0 +1,42 @@
+Convert audio file to .caf format:
+    afconvert -f caff -d LEI16@44100 -c 1 in.wav out.caf
+
+Transmit button:
+    - grey out and disable when:
+        - at the start that there is no code in the text view
+        - user is entering text
+    - Text change to "stop" during transmitting
+    - Text change from "stop" to "transmit" when:
+        - finished single transmit
+        - user tapped "stop" and transmit stopped
+
+* Flash delay, why?
+
+Make sound file sontinuous play over 5 sec (optional)
+
+Add prosigns (optional)
+    
+Auto mode add volumn control (optional)
+
+
+### Welcome to the Support Page.
+
+Morse Code Signal Transmitter is a free iPhone app available on App Store.
+This app is developed for learning, fun and emergency communication purpose.
+Some of the source code are available in GitHub.
+Features:
+- Translate ASCII text to Morse Code and transmit it with flash light and sound
+- Tap your Morse Code with a virtual telegraph key
+
+Please note: The source code you can download from here is NOT the entire app. They are only part of the application.
+
+
+### Authors and Contributors
+
+This project is created in by Rick Wu (@rick7661).
+Bug report please contact: pj.rickwu@icloud.com
+
+- Suitable for learning, fun and emergency communication
+- Translates ASCII text to International Morse Code
+- Transmits your message in International Morse Code with flash light and sound
+- Tap your Morse Code with a virtual telegraph key
