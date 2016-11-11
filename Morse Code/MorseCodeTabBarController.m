@@ -1,11 +1,3 @@
-//
-//  MorseCodeTabBarController.m
-//  Morse Code
-//
-//  Created by Rick Wu on 16/01/2014.
-//  Copyright (c) 2014 Rick Wu. All rights reserved.
-//
-
 #import "MorseCodeTabBarController.h"
 
 @interface MorseCodeTabBarController ()

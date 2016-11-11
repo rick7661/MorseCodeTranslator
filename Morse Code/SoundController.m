@@ -1,11 +1,3 @@
-//
-//  SoundController.m
-//  Morse Code
-//
-//  Created by Rick Wu on 1/01/2014.
-//  Copyright (c) 2014 Rick Wu. All rights reserved.
-//
-
 #import "SoundController.h"
 
 @implementation SoundController
